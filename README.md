@@ -1,1 +1,5 @@
 # Design-Thinking
+
+## Reflection
+
+Throughout our project, I gained valuable insights into teamwork, problem-solving, and the structured use of design thinking principles. Identifying key challenges such as AI bias, overdependence, limited critical thinking, and privacy concerns deepened our understanding of AI’s risks and limitations. Our strong collaboration, facilitated by clear communication and fair task distribution, was essential to our success. The application of design thinking phases in empathize, define, ideate, prototype, and test helped us systematically tackle problems and refine our solutions. I also developed critical skills, including research, communication, and technical abilities, which strengthened our overall project approach. Although more time for prototype testing and feedback would improve future projects, I am proud of our teamwork and solution development. This experience has prepared me for future collaborative challenges with greater confidence and adaptability.
